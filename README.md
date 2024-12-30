@@ -1,4 +1,4 @@
-## Hi there 👋
+ 
 
 <!--
 **aarif-s/aarif-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me: 
+<h1 align="center">Hi 👋, I'm Aabid Khan</h1>
+<h3 align="center">Game Developer</h3>
+
 🔭 I’m currently working on a Food Delivery Website 
+
+- 🌱 I’m currently learning **Nodejs**
+
+- 💬 Ask me about **Reactjs and Nodejs**
+
+- 🎮 Check out my Android game https://aabidkhan.itch.io/pink-piggy
+
+- 📫 How to reach me **alijmi0009@gmail.com**
 
 
 ## 🌐 Socials:
