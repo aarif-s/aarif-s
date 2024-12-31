@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Reactjs and Nodejs**
 
-- 🎮 Check out my Android game https://aabidkhan.itch.io/pink-piggy
+- 🎮 Check out my 
 
 - 📫 How to reach me **alijmi0009@gmail.com**
 
