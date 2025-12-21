@@ -16,13 +16,13 @@ Here are some ideas to get you started:
  <h1 align="center">Hi 👋, I'm Arif Ali</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🔭 I’m currently working on a Food-Delivery Website 
+- 🔭 I’m currently working on a Online shopping website
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Nextjs**
 
 - 💬 Ask me about **Reactjs and Nodejs**
-
-- 🎮 Check out my  
+  
+- 🎮 Check out my current live project https://riverdrape.com/
 
 - 📫 How to reach me **alijmi0009@gmail.com**
 
