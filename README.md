@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Securechat webapp
 
-- 🌱 I’m currently learning **Nextjs and TypeScript**
+- 🌱 I’m currently learning **Nextjs,TypeScript, Machine Learning and Ai**
 
 - 💬 Ask me about **Reactjs and Nodejs**
   
